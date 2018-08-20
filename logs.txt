@@ -1,8 +1,0 @@
-Array
-(
-    [status] => 1
-    [http_status] => 200
-    [records] => 20019
-    [Time] => 2018-08-16 04:11:06pm
-)
-
