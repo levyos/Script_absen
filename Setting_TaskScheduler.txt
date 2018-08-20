@@ -1,0 +1,23 @@
+GENERAL
+
+name : Absen
+
+Run whether user is logged on or not
+
+
+
+TRIGGER
+
+one time - kapan aja
+
+Repeat task every : 5 minutes
+
+enabled
+
+
+
+ACTION
+
+Start a program
+
+Pogram/script : G:\tad\tes.bat
